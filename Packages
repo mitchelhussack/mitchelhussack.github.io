@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: Mitchel Hussack <chelartwork@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.mitchelhussack.drunkmode10_1.0_iphoneos-arm.deb
+Filename: ./debs/com.mitchelhussack.drunkmode10_1.0-1+debug_iphoneos-arm
 Size: "FILL"
 MD5um: "FILL"
 SHA1: "FILL"
