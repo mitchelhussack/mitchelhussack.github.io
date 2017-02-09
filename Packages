@@ -1,1 +1,15 @@
-
+Package: com.mitchelhussack.drunkmode10
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: Mitchel Hussack <chelartwork@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.mitchelhussack.drunkmode10_1.0_iphoneos-arm.deb
+Size: "FILL"
+MD5um: "FILL"
+SHA1: "FILL"
+SHA256: "FILL"
+Description: A tweak to save you from accidentally texting your ex when your drunk ;)
+Author: Mitchel Hussack <chelartwork@gmail.com>
+Depiction: http://www.mitchelhussack.com/repo/depic/com.mitchelhussack.drunkmode10/index.html
