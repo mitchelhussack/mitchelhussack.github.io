@@ -1,1 +1,9 @@
-
+Origin: Mitchel Hussack's Repo
+Label: Mitchel Hussack's Repo
+Suite: stable
+Version: 1.0
+Codename: MitchelHussack
+Architectures: iphoneos-arm
+Components: main
+Description: Mitchel Hussack's Repo
+MD5Sum:
