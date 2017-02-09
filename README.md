@@ -2,8 +2,4 @@
 You've come here for a reason...
 
 
-This is Mitchel Hussack's repo. I am a beginner, give me time to make tweaks. 
-Hopefully as time goes on I will be faster and better, but for now I'm still most likely working
-on DrunkMode, taking hours to write 10 lines of code, making sure I'm not doing anything wrong and 
-doing extensive research. If you want to message me, my go-to social media for dev-related things is
-Reddit & Twitter (@mitchelhussack). Although you may also email me @ chelartwork@gmail.com. Enjoy!
+This is Mitchel Hussack's repo. I am a beginner, give me time to make tweaks. Hopefully as time goes on I will be faster and better, but for now I'm still most likely workingon DrunkMode, taking hours to write 10 lines of code, making sure I'm not doing anything wrong and doing extensive research. If you want to message me, my go-to social media for dev-related things willbe Reddit & Twitter (@mitchelhussack). Although you may also email me @ chelartwork@gmail.com. I would love to fulfill simple requests if you have any, although it may take some time. I'm not too good at using class dumps yet either, so it takes me a while to find the correct header and/or class, but I promise improvements will come :). I'm 15 right now, and a lot of my classes I am in the AP section, so I may have a lot of homework and not be able to improve or update my tweak(s) every night or week. I will try my hardest to stay ahead and leave time for improving but I have no promises. Enjoy my tweaks!
