@@ -3,7 +3,7 @@ Version: 1.0
 Priority: optional
 Section: Tweaks
 Maintainer: Mitchel Hussack <chelartwork@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, firmware (>=10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.mitchelhussack.drunkmode10_1.0-1+debug_iphoneos-arm
 Size: 104
