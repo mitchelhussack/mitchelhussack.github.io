@@ -1,24 +1,24 @@
 <package>
-	<id>com.decimation.saberforwhatsapp</id>
+	<id>com.mitchelhussack.drunkmode10</id>
 	<name>Full Package</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>winterboard</package>
+		<package>tweak</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Saber Messages theme for WhatsApp.</description>
-		<description>Enable in Winterboard.</description>
+		<description>A little tweak to save you from accidentally texting an ex ;)</description>
+		<description>Enable in Settings</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>WhatsApp with Saber</description>
-			<image>saberforwhatsapp.PNG</image>
+			<description>Small Tweak</description>
+			<image>IMG_1179.JPG</image>
 		</screenshot>			
 	</screenshots>
 	<changelog>
@@ -27,17 +27,12 @@
 	<links>
 		<link>
 			<name>Reddit</name>
-			<url>https://www.reddit.com/u/_Decimation</url>
+			<url>https://www.reddit.com/u/_mitchelhussack</url>
 		</link>
 		
 		<link>
 			<name>Twitter</name>
-			<url>https://twitter.com/dec1mati0n</url>
-		</link>
-		
-		<link>
-			<name>/r/iosthemes WIP Thread</name>
-			<url>https://www.reddit.com/r/iOSthemes/comments/3daymv/wip_saber_and_slashes_for_whatsapp/</url>
+			<url>https://twitter.com/mitchelhussack</url>
 		</link>
 	</links>
 </package>
